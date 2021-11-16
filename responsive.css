@@ -1,0 +1,36 @@
+
+@media (min-width: 30rem) {
+  .card_item {
+    width: 50%;
+  }
+
+
+}
+
+@media (min-width: 56rem) {
+  .card_item {
+    width: 33.3333%;
+  }
+
+ }  
+
+
+ @media (max-width: 700px) { 
+   .box{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }
+
+.tit{
+  text-align: center;
+}
+
+.valor{
+ 
+  text-align: center;
+ 
+}
+ }
+
+
